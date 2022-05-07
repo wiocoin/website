@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "get-started": "Development Process",
+  "testing": "Testing",
+  "installation": "Installation",
+  "runnig": "Running"
 }

@@ -1,0 +1,6 @@
+{
+  "index": "Windows Build",
+  "linux": "Unix Build",
+  "osx": "Mac OS Build",
+  "bsd": "Build on OpenBSD"
+}
